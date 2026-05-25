@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configvave",
+        "uuid": 893964,
+        "checksum": "pwnj4"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
